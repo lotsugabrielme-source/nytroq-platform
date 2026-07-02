@@ -1,0 +1,23 @@
+{
+  "short_name": "NytroQ",
+  "name": "NytroQ – High-Performance Print Estimator",
+  "description": "Calculate printing costs, manage inventory, and generate professional invoices.",
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#16a34a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/assets/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
